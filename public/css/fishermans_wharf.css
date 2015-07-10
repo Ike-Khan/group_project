@@ -1,10 +1,12 @@
 h1 {
   font-size: 90px;
-  color: #FF0F0F;
+  color: #000000;
   }
 body {
         background-image: url("http://www.alexanderchen.com/pages%20&%20images/fishermans%20wharf/Fishermans-Wharf-800.jpg");
+  background-size: 2000px 900px;
 } 
+
 #words {
   font-family: boulder;
 }
