@@ -1,0 +1,31 @@
+h1 {
+  font-size: 90px;
+  color: #FF0F0F;
+  }
+body {
+        background-image: url("http://www.ballparksofbaseball.com/nl/pictures/2013/att13_top2.jpg");
+} 
+#words {
+  font-family: boulder;
+}
+
+h4 {position: relative;
+    right: -803px;
+  bottom: -723px;
+ }
+h4 {
+  color: #D791E3;
+}
+#attractions {
+  font-size: 29px;
+  color: #FFFC33;
+  text-align: "left";
+  font-family: boulder;
+  position: relative;
+  top: -50px;
+  left: -15px;
+  text-decoration:underline;
+  }
+body span {
+  background-color: blue;
+}
