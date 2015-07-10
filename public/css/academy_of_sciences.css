@@ -4,26 +4,30 @@ h1 {
   }
 body {
         background-image: url("http://blog.pentagram.com/CAS_Entrance_Sm.jpg");
+  background-size: 2500px 1500px;
+  background-repeat: no-repeat
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: 0px;
+  bottom: -30px;
+  font-size: 30px;
+  
  }
 h4 {
-  color: #D791E3;
+  color: #000000;
 }
 #attractions {
   font-size: 29px;
-  color: #FFFC33;
+  color: #9118f9;
   text-align: "left";
   font-family: boulder;
   position: relative;
   top: -50px;
-  left: -15px;
+  left: 0px;
   text-decoration:underline;
   }
 body span {

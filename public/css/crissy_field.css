@@ -4,17 +4,20 @@ h1 {
   }
 body {
         background-image: url("http://www.presidio.gov/PublishingImages/Crissy%20Field%20Main/crissyfield2_620x390.jpg");
+  background-repeat: no-repeat;
+  background-size: 2500px, 2500px;
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: 0px;
+  bottom: -123px;
+  font-size: 40px ;
  }
 h4 {
-  color: #D791E3;
+  color: #000000;
 }
 #attractions {
   font-size: 29px;
