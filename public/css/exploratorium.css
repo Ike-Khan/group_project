@@ -10,11 +10,12 @@ body {
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: 0px;
+  bottom: -633px;
+  font-size: 40px;
  }
 h4 {
-  color: #D791E3;
+  color: #ff0000;
 }
 #attractions {
   font-size: 29px;

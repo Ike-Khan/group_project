@@ -4,17 +4,20 @@ h1 {
   }
 body {
         background-image: url("https://loveletterstosf.files.wordpress.com/2012/02/img_3012.jpg");
+  background-size: 2500px, 2500px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: 0px;
+  bottom: -623px;
+  font-size: 30px;
  }
 h4 {
-  color: #D791E3;
+  color: #000000;
 }
 #attractions {
   font-size: 29px;

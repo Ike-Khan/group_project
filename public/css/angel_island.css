@@ -4,17 +4,20 @@ h1 {
   }
 body {
         background-image: url("http://baynature.org/wp-content/uploads/2012/07/8_386-KStoll-AngelIsland.jpg");
+  background-repeat: no-repeat;
+  background-size: 3300px, 3600px;
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: 0px;
+  bottom: -823px;
+  font-size: 30px
  }
 h4 {
-  color: #D791E3;
+  color: #f000ff;
 }
 #attractions {
   font-size: 29px;

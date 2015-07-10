@@ -4,17 +4,20 @@ h1 {
   }
 body {
         background-image: url("https://www.gocartours.com/wp-content/uploads/de-young-museum1.jpg");
+  background-repeat: no-repeat;
+  background-size: 2400px, 2400px ;
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: 0px;
+  bottom: -523px;
+  font-size: 40px;
  }
 h4 {
-  color: #D791E3;
+  color: #c72cc1;
 }
 #attractions {
   font-size: 29px;

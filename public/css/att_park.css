@@ -3,18 +3,21 @@ h1 {
   color: #FF0F0F;
   }
 body {
-        background-image: url("http://www.ballparksofbaseball.com/nl/pictures/2013/att13_top2.jpg");
+        background-image: url("http://www.dancogswell.com/wp-content/uploads/2006/07/DSCN1507-DSCN1514.jpg");
+  background-size: 3200px, 3200px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: 0px;
+  bottom: -20px;
+  font-size: 30px;
  }
 h4 {
-  color: #D791E3;
+  color: #000000;
 }
 #attractions {
   font-size: 29px;

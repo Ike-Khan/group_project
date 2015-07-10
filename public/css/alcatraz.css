@@ -3,21 +3,24 @@ h1 {
   color: #FF0F0F;
   }
 body {
-        background-image: url("http://www.alcatrazcruises.com/website/images/homepage/main-promo-3.jpg");
+        background-image: url("http://www.history.com/images/media/video/history_mysteryquest_alcatraz_sf_1147376/alcatraz-mystery-thumb_still_624x352.jpg");
+  background-size: 2400px, 3000px;
+        background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: -0px;
+  bottom: -178px;
+  font-size: 30px
  }
 h4 {
-  color: #D791E3;
+  color: #000000;
 }
 #attractions {
-  font-size: 29px;
+  font-size: 10px;
   color: #FFFC33;
   text-align: "left";
   font-family: boulder;
