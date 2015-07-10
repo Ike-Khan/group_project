@@ -1,20 +1,23 @@
 h1 {
-  font-size: 90px;
-  color: #FF0F0F;
+  font-size: 360px;
+  color: #FFFFFF;
   }
 body {
-        background-image: url("http://media-cdn.tripadvisor.com/media/photo-s/02/1e/c2/69/shopping-area-on-pier.jpg");
+        background-image: url("http://s3-us-west-1.amazonaws.com/cdn.hdrelay.com/c/24/pier%2039.jpg");
+   background-size: 5900px 3000px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
+    right: -53px;
   bottom: -723px;
+  font-size: 90px;
  }
 h4 {
-  color: #D791E3;
+  color: #ff1717;
 }
 #attractions {
   font-size: 29px;

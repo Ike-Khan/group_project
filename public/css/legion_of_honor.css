@@ -1,23 +1,29 @@
 h1 {
-  font-size: 90px;
-  color: #FF0F0F;
+  font-size: 360px;
+  color: #FFFFFF;
+  position: relative;
+    top: 30px;
+  left: 300px;
   }
 body {
         background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/78/California_Palace_of_the_Legion_of_Honor,_01.JPG");
+   background-size: 5950px 3000px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: -403px;
+  bottom: -1400px;
+  font-size: 65px;
  }
 h4 {
-  color: #D791E3;
+  color: #000000;
 }
 #attractions {
-  font-size: 29px;
+  font-size: 50px;
   color: #FFFC33;
   text-align: "left";
   font-family: boulder;

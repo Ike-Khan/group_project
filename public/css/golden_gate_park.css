@@ -1,23 +1,27 @@
 h1 {
-  font-size: 90px;
-  color: #FF0F0F;
+  font-size: 360px;
+  color: #108943;
+  text-align: "left";
   }
 body {
-        background-image: url("http://www.inetours.com/images/CoF/Conservatory_4718.jpg");
+        background-image: url("http://upload.wikimedia.org/wikipedia/commons/7/78/Golden_Gate_Park_-_Spreckels_Temple_of_Music_02.jpg");
+   background-size: 5700px 3000px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: -12px;
+  bottom: -1303px;
+  font-size: 90px;
  }
 h4 {
-  color: #D791E3;
+  color: #ffffff;
 }
 #attractions {
-  font-size: 29px;
+  font-size: 90px;
   color: #FFFC33;
   text-align: "left";
   font-family: boulder;

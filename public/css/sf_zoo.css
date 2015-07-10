@@ -1,20 +1,22 @@
 h1 {
-  font-size: 90px;
-  color: #FF0F0F;
+  font-size: 360px;
+  color: #4d4b34;
   }
 body {
-        background-image: url("http://www.studio-hinrichs.com/work/environmental/images/sfzoo1.jpg");
+        background-image: url("https://sfonewb.files.wordpress.com/2011/11/sf-zoo_may-2011-043.jpg");
+   background-size: 6000px 3000px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
-h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+h4 {
+  text-align: "bottom";
+  font-size: 120px;
  }
 h4 {
-  color: #D791E3;
+  color: #398551;
 }
 #attractions {
   font-size: 29px;

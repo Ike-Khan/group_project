@@ -1,22 +1,23 @@
 h1 {
-  font-size: 90px;
+  font-size: 360px;
   color: #000000;
+  text-align: "center";
   }
 body {
-        background-image: url("http://www.alexanderchen.com/pages%20&%20images/fishermans%20wharf/Fishermans-Wharf-800.jpg");
-  background-size: 2000px 900px;
+        background-image: url("http://www.melissatoandfro.com/wp-content/uploads/2012/10/20121009-210521.jpg");
+  background-size: 5500px 2500px;
 } 
 
 #words {
   font-family: boulder;
 }
 
-h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+h4 {position: middle;
+
  }
 h4 {
-  color: #D791E3;
+  color: #0000b2;
+  font-size: 90px;
 }
 #attractions {
   font-size: 29px;

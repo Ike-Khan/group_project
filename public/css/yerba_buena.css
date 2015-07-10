@@ -1,20 +1,22 @@
 h1 {
-  font-size: 90px;
-  color: #FF0F0F;
+  font-size: 360px;
+  color: #6a6d6b;
+  text-align: "center";
   }
 body {
         background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/56/San_Francisco_Yerba_Buena_Gardens_005.jpg");
+   background-size: 5900px 3000px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
-h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+h4 {
+  font-size: 110px;
  }
 h4 {
-  color: #D791E3;
+  color: #000000;
 }
 #attractions {
   font-size: 29px;

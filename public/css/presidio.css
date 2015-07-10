@@ -1,20 +1,23 @@
 h1 {
-  font-size: 90px;
-  color: #FF0F0F;
+  font-size: 360px;
+  color: #000000;
+  text-align: "left"
   }
 body {
-        background-image: url("http://cdn.funcheap.com/wp-content/uploads/2013/04/presidio1.jpg");
+        background-image: url("http://www.suitcasescholar.com/wp-content/uploads/2012/06/presidio-landscape.jpg");
+   background-size: 6000px 3000px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
-h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+h4 {
+  font-size: 130px;
+  text-align: "bottom";
  }
 h4 {
-  color: #D791E3;
+  color: #fda600;
 }
 #attractions {
   font-size: 29px;

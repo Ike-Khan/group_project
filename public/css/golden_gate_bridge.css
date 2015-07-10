@@ -1,20 +1,23 @@
 h1 {
-  font-size: 90px;
+  font-size: 360px;
   color: #FF0F0F;
   }
 body {
-        background-image: url("http://img4.wikia.nocookie.net/__cb20140318140813/creepypasta/images/b/b4/Golden-gate-bridge-sunset.jpg");
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg");
+   background-size: 5200px 3000px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
-h4 {position: relative;
+h4 {position: left;
     right: -803px;
   bottom: -723px;
+  font-size: 90px;
  }
 h4 {
-  color: #D791E3;
+  color: #26874f;
 }
 #attractions {
   font-size: 29px;

@@ -1,24 +1,28 @@
 h1 {
-  font-size: 90px;
+  font-size: 200px;
   color: #FF0F0F;
   }
 body {
-        background-image: url("http://ilikewall.com/wp-content/uploads/2015/04/San-Francisco-Golden-Gate-Bridge-Red-Wallpaper.jpg");
+        background-image: url("http://www.sethwoodphotography.com/data/photos/272_1_mg_4892.jpg");
+   background-size: 7200px 2500px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
+  font-size: 100px;
 }
 
 h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+    right: -1990px;
+  bottom: -1990px;
+  font-size: 70px;
  }
 h4 {
-  color: #D791E3;
+  color: #45874a;
 }
 #attractions {
-  font-size: 29px;
-  color: #FFFC33;
+  font-size: 75px;
+  color: #f8d2ff;
   text-align: "left";
   font-family: boulder;
   position: relative;

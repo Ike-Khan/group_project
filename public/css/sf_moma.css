@@ -1,20 +1,22 @@
 h1 {
-  font-size: 90px;
-  color: #FF0F0F;
+  font-size: 360px;
+  color: #eef00c;
   }
 body {
-        background-image: url("http://calibermag.org/wp-content/uploads/2013/04/SF-MOMA_0245.jpg");
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ef/San_Francisco_Museum_of_Modern_Art_in_2011.jpg");
+   background-size: 5500px 3000px;
+  background-repeat: no-repeat;
 } 
 #words {
   font-family: boulder;
 }
 
-h4 {position: relative;
-    right: -803px;
-  bottom: -723px;
+h4 {
+  text-align: "bottom";
+  font-size: 110px;
  }
 h4 {
-  color: #D791E3;
+  color: #7cbfd8;
 }
 #attractions {
   font-size: 29px;
