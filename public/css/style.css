@@ -6,7 +6,7 @@ body {
         background-image: url("http://ilikewall.com/wp-content/uploads/2015/04/San-Francisco-Golden-Gate-Bridge-Red-Wallpaper.jpg");
 } 
 #words {
-  font-family: wingdings;
+  font-family: boulder;
 }
 
 h4 {position: relative;
@@ -20,7 +20,7 @@ h4 {
   font-size: 29px;
   color: #FFFC33;
   text-align: "left";
-  font-family: wingdings;
+  font-family: boulder;
   position: relative;
   top: -50px;
   left: -15px;
